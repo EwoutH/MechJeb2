@@ -1,1 +1,4 @@
-language: csharp
+build_script:
+ - make build
+ - make install
+ - make zip
