@@ -1,4 +1,4 @@
-# MechJeb2
+# MechJeb2 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MuMech/MechJeb2?branch=master&svg=true)](https://ci.appveyor.com/project/MuMech/MechJeb2)
 
 Anatid Robotics and Multiversal Mechatronics proudly presents the first flight assistant autopilot: MechJeb
 
